@@ -16,4 +16,5 @@
 范围|描述|commitId
 --|--|--
  - | src目录名字改为examples | [1758d04](https://github.com/jtfl2008/clover-ui/commit/1758d04)
+ - | 新建 packages 文件夹 | [b1516dd](https://github.com/jtfl2008/clover-ui/commit/b1516dd)
 
